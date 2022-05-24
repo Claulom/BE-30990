@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Remeras",
+		"price": 3499.5,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_704108-MLA49333256921_032022-O.webp",
+		"id": 1
+	},
+	{
+		"title": "Zapatillas",
+		"price": 9500.5,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_669795-MLA49152599709_022022-O.webp",
+		"id": 2
+	},
+	{
+		"title": "Celular",
+		"price": 90000.5,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_995741-MLA47861036467_102021-O.webp",
+		"id": 3
+	}
+]
